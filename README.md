@@ -5,10 +5,10 @@ These are my achievements and goals
 1.  I'm currently learning HTML      [April 1, 2024] 
     ✅ Done!                        [April 12, 2024]
                                                                                 
-2.  Started CS50 course from Harvard (2024)  [April 13, 2024]  ❌ Not complete [April 12, 2024]                
+2.  Started CS50 course from Harvard (2024)  [April 13, 2024]  ❌ Not complete yet [April 12, 2024]                
  2.1  Week 0 Scratch ✅ [April 13, 2024]
   2.1.1 Practice 1 ✅   [April 20, 2024]
- 2.2  Week 1 C ✅       [April 21, 2024]
+ 2.2  Week 1 C ✅       [May 01, 2024]
     
 3.  I'm currently learning CSS 🎨 [April 15, 2024] 
 
